@@ -1,0 +1,66 @@
+{
+  "categories": [
+    {
+      "name": "Equipamentos de Ergonomia para Freelancer",
+      "slug": "equipamentos-ergonomia-freelancer",
+      "description": "Análises detalhadas e recomendações dos melhores equipamentos ergonômicos para freelancers, focando em saúde, postura e conforto durante longas jornadas de trabalho remoto.",
+      "subcategories": [
+        {
+          "name": "Cadeiras Ergonômicas para Freelancer",
+          "slug": "cadeiras-ergonomicas-freelancer",
+          "description": "Guia de compra das melhores cadeiras ergonômicas para profissionais freelancers que buscam conforto e prevenção de dores nas costas.",
+          "articles": []
+        },
+        {
+          "name": "Mesas com Regulagem de Altura",
+          "slug": "mesas-regulagem-altura-freelancer",
+          "description": "Comparativos das melhores mesas digitalizadoras e escrivaninhas com ajuste de altura (standing desks) para o trabalho freelancer ativo.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Hardware e Periféricos para Freelancer",
+      "slug": "hardware-perifericos-freelancer",
+      "description": "Reviews e comparativos dos melhores hardwares, computadores e periféricos essenciais para garantir a alta performance do profissional freelancer.",
+      "subcategories": [
+        {
+          "name": "Notebooks e Computadores para Freelancer",
+          "slug": "notebooks-computadores-freelancer",
+          "description": "Encontre os melhores notebooks e computadores portáteis para trabalho freelancer, categorizados por área de atuação e desempenho.",
+          "articles": []
+        },
+        {
+          "name": "Monitores e Telas para Freelancer",
+          "slug": "monitores-telas-freelancer",
+          "description": "Análise dos melhores monitores externos e telas portáteis para aumentar a área de trabalho e a produtividade do freelancer.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Setups e Kits de Equipamentos Freelancer",
+      "slug": "setups-kits-equipamentos-freelancer",
+      "description": "Ideias de setups completos e kits de equipamentos recomendados para otimizar o espaço de trabalho de freelancers de todos os nichos.",
+      "subcategories": [
+        {
+          "name": "Equipamentos para Home Office Freelancer",
+          "slug": "equipamentos-home-office-freelancer",
+          "description": "Seleção dos melhores equipamentos para estruturar um home office freelancer profissional, produtivo e altamente eficiente.",
+          "articles": [
+            {
+              "title": "Guia Definitivo: Os Melhores Equipamentos para Home Office Freelancer em 2026",
+              "slug": "primeiro-post"
+            }
+          ]
+        },
+        {
+          "name": "Equipamentos para Freelancer Nômade Digital",
+          "slug": "equipamentos-freelancer-nomade-digital",
+          "description": "Os melhores equipamentos portáteis, leves e duráveis para freelancers que trabalham viajando ou em espaços de coworking.",
+          "articles": []
+        }
+      ]
+    }
+  ]
+}

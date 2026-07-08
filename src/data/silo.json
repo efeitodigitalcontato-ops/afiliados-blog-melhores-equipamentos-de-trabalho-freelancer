@@ -1,52 +1,107 @@
 {
   "categories": [
     {
-      "name": "Equipamentos de Ergonomia para Freelancer",
-      "slug": "equipamentos-ergonomia-freelancer",
-      "description": "Análises detalhadas e recomendações dos melhores equipamentos ergonômicos para freelancers, focando em saúde, postura e conforto durante longas jornadas de trabalho remoto.",
+      "name": "Melhores Periféricos Home Office",
+      "slug": "melhores-perifericos-home-office",
+      "description": "Descubra os periféricos essenciais para otimizar seu setup home office. De teclados ergonômicos a webcams de alta definição e headsets imersivos, encontre as melhores opções para produtividade, comunicação e conforto no seu ambiente de trabalho remoto.",
       "subcategories": [
         {
-          "name": "Cadeiras Ergonômicas para Freelancer",
-          "slug": "cadeiras-ergonomicas-freelancer",
-          "description": "Guia de compra das melhores cadeiras ergonômicas para profissionais freelancers que buscam conforto e prevenção de dores nas costas.",
+          "name": "Melhores Teclados Home Office",
+          "slug": "melhores-teclados-home-office",
+          "description": "Explore nossa seleção dos melhores teclados para home office, incluindo modelos mecânicos, ergonômicos e sem fio, projetados para maximizar sua digitação e conforto durante longas horas de trabalho.",
           "articles": []
         },
         {
-          "name": "Mesas com Regulagem de Altura",
-          "slug": "mesas-regulagem-altura-freelancer",
-          "description": "Comparativos das melhores mesas digitalizadoras e escrivaninhas com ajuste de altura (standing desks) para o trabalho freelancer ativo.",
+          "name": "Melhores Mouses Home Office",
+          "slug": "melhores-mouses-home-office",
+          "description": "Encontre o mouse perfeito para seu setup home office. Guias e análises dos melhores mouses ergonômicos, verticais e de alta precisão para aumentar sua produtividade e prevenir dores.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Webcams Home Office",
+          "slug": "melhores-webcams-home-office",
+          "description": "Garanta a melhor qualidade em suas videochamadas com as melhores webcams para home office. Comparamos modelos com resolução 1080p, 4K e recursos avançados para profissionais.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Headsets Home Office",
+          "slug": "melhores-headsets-home-office",
+          "description": "Comunique-se com clareza e foco. Descubra os melhores headsets para home office, com cancelamento de ruído, áudio de alta qualidade e conforto para reuniões e chamadas.",
           "articles": []
         }
       ]
     },
     {
-      "name": "Hardware e Periféricos para Freelancer",
-      "slug": "hardware-perifericos-freelancer",
-      "description": "Reviews e comparativos dos melhores hardwares, computadores e periféricos essenciais para garantir a alta performance do profissional freelancer.",
+      "name": "Melhores Monitores e Suportes Home Office",
+      "slug": "melhores-monitores-suportes-home-office",
+      "description": "Maximize seu espaço de trabalho e produtividade visual com os melhores monitores e suportes para home office. Encontre opções ultrawide, 4K, duplos e braços ergonômicos para uma configuração ideal.",
       "subcategories": [
         {
-          "name": "Notebooks e Computadores para Freelancer",
-          "slug": "notebooks-computadores-freelancer",
-          "description": "Encontre os melhores notebooks e computadores portáteis para trabalho freelancer, categorizados por área de atuação e desempenho.",
+          "name": "Melhores Monitores Ultrawide Home Office",
+          "slug": "melhores-monitores-ultrawide-home-office",
+          "description": "Aumente sua área de trabalho digital com os melhores monitores ultrawide para home office. Análises e recomendações para multitarefas e imersão em projetos.",
           "articles": []
         },
         {
-          "name": "Monitores e Telas para Freelancer",
-          "slug": "monitores-telas-freelancer",
-          "description": "Análise dos melhores monitores externos e telas portáteis para aumentar a área de trabalho e a produtividade do freelancer.",
+          "name": "Melhores Monitores 4K Home Office",
+          "slug": "melhores-monitores-4k-home-office",
+          "description": "Experimente clareza e detalhes incomparáveis com os melhores monitores 4K para home office. Ideal para designers, editores e profissionais que exigem alta resolução.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Suportes para Monitores Home Office",
+          "slug": "melhores-suportes-para-monitores-home-office",
+          "description": "Otimize a ergonomia e o espaço da sua mesa com os melhores suportes e braços para monitores home office. Encontre soluções para um ou múltiplos monitores.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Monitores Duplos Home Office",
+          "slug": "melhores-monitores-duplos-home-office",
+          "description": "Dobre sua produtividade com as melhores configurações de monitores duplos para home office. Guias completos para escolher e configurar seu setup de tela dupla.",
           "articles": []
         }
       ]
     },
     {
-      "name": "Setups e Kits de Equipamentos Freelancer",
-      "slug": "setups-kits-equipamentos-freelancer",
-      "description": "Ideias de setups completos e kits de equipamentos recomendados para otimizar o espaço de trabalho de freelancers de todos os nichos.",
+      "name": "Melhores Mobiliário Ergonômico Home Office",
+      "slug": "melhores-mobiliario-ergonomico-home-office",
+      "description": "Invista no seu conforto e saúde com o melhor mobiliário ergonômico para home office. Encontre cadeiras, mesas ajustáveis e acessórios que transformam seu espaço de trabalho em um ambiente saudável e produtivo.",
       "subcategories": [
         {
-          "name": "Equipamentos para Home Office Freelancer",
-          "slug": "equipamentos-home-office-freelancer",
-          "description": "Seleção dos melhores equipamentos para estruturar um home office freelancer profissional, produtivo e altamente eficiente.",
+          "name": "Melhores Cadeiras Ergonômicas Home Office",
+          "slug": "melhores-cadeiras-ergonomicas-home-office",
+          "description": "Proteja sua coluna e aumente seu conforto com as melhores cadeiras ergonômicas para home office. Análises detalhadas para escolher o modelo ideal para longas jornadas.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Mesas Ajustáveis Home Office",
+          "slug": "melhores-mesas-ajustaveis-home-office",
+          "description": "Alterne entre trabalhar sentado e em pé com as melhores mesas ajustáveis para home office. Descubra modelos elétricos e manuais que promovem a saúde e a flexibilidade.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Apoios de Pé Home Office",
+          "slug": "melhores-apoios-de-pe-home-office",
+          "description": "Melhore sua postura e circulação com os melhores apoios de pé para home office. Um acessório essencial para complementar sua cadeira ergonômica e mesa.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Acessórios Ergonômicos Home Office",
+          "slug": "melhores-acessorios-ergonomicos-home-office",
+          "description": "Otimize cada detalhe do seu setup com os melhores acessórios ergonômicos para home office, incluindo apoios de pulso, suportes para notebook e organizadores de cabos.",
+          "articles": []
+        }
+      ]
+    },
+    {
+      "name": "Melhores Setups Completos Home Office",
+      "slug": "melhores-setups-completos-home-office",
+      "description": "Planeje seu setup home office ideal com nossos guias completos. De configurações otimizadas para freelancers a setups de alto desempenho e custo-benefício, encontre inspiração e recomendações personalizadas para cada necessidade e orçamento.",
+      "subcategories": [
+        {
+          "name": "Melhores Setups Home Office para Freelancers",
+          "slug": "melhores-setups-home-office-para-freelancers",
+          "description": "Descubra os setups home office mais eficientes e versáteis para freelancers. Guias completos com recomendações de equipamentos que otimizam a produtividade e a flexibilidade do trabalho autônomo.",
           "articles": [
             {
               "title": "Guia Definitivo: Os Melhores Equipamentos para Home Office Freelancer em 2026",
@@ -55,9 +110,21 @@
           ]
         },
         {
-          "name": "Equipamentos para Freelancer Nômade Digital",
-          "slug": "equipamentos-freelancer-nomade-digital",
-          "description": "Os melhores equipamentos portáteis, leves e duráveis para freelancers que trabalham viajando ou em espaços de coworking.",
+          "name": "Melhores Setups Home Office para Produtividade",
+          "slug": "melhores-setups-home-office-para-produtividade",
+          "description": "Construa um ambiente de trabalho que impulsiona sua eficiência. Explore os melhores setups home office focados em produtividade, com equipamentos e configurações que minimizam distrações e maximizam o foco.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Setups Home Office Custo-Benefício",
+          "slug": "melhores-setups-home-office-custo-beneficio",
+          "description": "Monte um home office funcional e de qualidade sem gastar muito. Nossos guias apresentam os melhores setups home office com excelente custo-benefício, provando que é possível ter um bom ambiente de trabalho com orçamento limitado.",
+          "articles": []
+        },
+        {
+          "name": "Melhores Setups Home Office Premium",
+          "slug": "melhores-setups-home-office-premium",
+          "description": "Para quem busca o máximo em desempenho, conforto e design. Conheça os melhores setups home office premium, com equipamentos de ponta e soluções de luxo para uma experiência de trabalho incomparável.",
           "articles": []
         }
       ]
